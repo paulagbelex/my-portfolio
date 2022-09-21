@@ -164,11 +164,13 @@ article {
 .footer-box1 img {
     display: block;
     margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
 
 }
 
 .footer-box1 h2 {
-    padding-bottom: 10px;
+    padding-bottom: 0;
     text-align: center;
     color: black;
 }
@@ -187,7 +189,7 @@ article {
     font-weight: 900;
     color: black;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 
 }
 
