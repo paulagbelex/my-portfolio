@@ -35,6 +35,11 @@ body {
 
 }
 
+header .container {
+    position: fixed;
+
+}
+
 .left-link ul {
     display: block;
     margin: 0 auto;
