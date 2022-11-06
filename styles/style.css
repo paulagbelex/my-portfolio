@@ -103,6 +103,10 @@ nav ul li {
     color: rgb(29, 221, 189);
 }
 
+.img-float-left img {
+    border-radius: 3px;
+}
+
 article {
     padding-top: 20px;
 }
@@ -115,6 +119,7 @@ article {
     height: 100%;
     background-color: white;
     padding: 10px 10px;
+    border-radius: 5px;
 }
 
 .about-wrap span {
@@ -126,6 +131,7 @@ article {
     margin: 0 auto;
     width: 200px;
     height: 200px;
+    border-radius: 0 30px 0 30px;
 }
 
 .about h4 {
@@ -187,6 +193,7 @@ article {
     margin-bottom: 20px;
     background-color: white;
     width: 80%;
+    border-radius: 2px;
 
 }
 
@@ -216,7 +223,7 @@ center {
 
 /*,,,,,,,,,,,,,endd of footer,,,,,,,,,,,,,,,,,,,,,,,*/
 
-/* Meddia query for tablets */
+/* Media query for tablets */
 
 @media only screen and (min-width: 600px) {
     .conwrap {
